@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**abvarun226/abvarun226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently building Microservices at Imgur
+- 🎓 I'm a Go and Python graduate
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: [Discord](https://discord.gg/2DATmmrn) | [Twitter](https://twitter.com/abvarun) | [LinkedIn](https://www.linkedin.com/in/abvarun226/)
+- 😄 Pronouns: he/him
+- 📋 Find my blog at https://ayada.dev
+- 📖 Subscribe to my substack at https://blog.greycell.dev/
 
-Here are some ideas to get you started:
+<details>
+<summary>My Github</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abvarun226&show_icons=true&theme=flag-india" alt="Bharghava Varun Ayada's Stats" />
+
+</details>
+
+![Profile Views](https://profile-counter.glitch.me/abvarun226/count.svg)
