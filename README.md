@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently building Microservices at Imgur
-- 🎓 I'm a Go and Python graduate
+- 🎓 I'm a Go and Python ethusiast
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [Discord](https://discord.gg/2DATmmrn) | [Twitter](https://twitter.com/abvarun) | [LinkedIn](https://www.linkedin.com/in/abvarun226/)
 - 😄 Pronouns: he/him
