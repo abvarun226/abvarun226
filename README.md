@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building Microservices at Imgur
+- 🔭 I’m currently working at Twilio Segment
 - 🎓 I'm a Go and Python ethusiast
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [Discord](https://discord.gg/2DATmmrn) | [Twitter](https://twitter.com/abvarun) | [LinkedIn](https://www.linkedin.com/in/abvarun226/)
