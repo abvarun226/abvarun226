@@ -9,7 +9,6 @@
 - 📖 Subscribe to my substack at https://blog.greycell.dev/
 
 <details>
-<summary>My Github</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abvarun226&show_icons=true&theme=dark&rank_icon=percentile" alt="Bharghava Varun Ayada's Stats" />
 
